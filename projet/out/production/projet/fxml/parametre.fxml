@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="760.0" prefWidth="1280.0" style="-fx-background-image: url(menu.png);" styleClass="pane" stylesheets="@../css/style.css"  xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ControllerParametre">
+   <children>
+      <Button fx:id="menu" layoutX="480.0" layoutY="471.0" mnemonicParsing="false" onAction="#actionMenu" prefHeight="32.0" prefWidth="251.0" text="Menu principale" />
+      <Button layoutX="517.0" layoutY="314.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="161.0" text="attaquer" />
+      <Button layoutX="517.0" layoutY="162.0" mnemonicParsing="false" text="Aller à droite" />
+      <Label fx:id="toucheAttaque" layoutX="819.0" layoutY="314.0" text="Label" />
+      <Label fx:id="toucheSaut" layoutX="819.0" layoutY="260.0" text="Label" />
+      <Button layoutX="517.0" layoutY="209.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="161.0" text="Aller à gauche" />
+      <Button layoutX="517.0" layoutY="260.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="161.0" text="sauter" />
+      <Label fx:id="toucheGauche" layoutX="819.0" layoutY="209.0" text="Label" />
+      <Label fx:id="toucheDroite" layoutX="819.0" layoutY="162.0" text="Label" />
+   </children>
+</Pane>
