@@ -2,17 +2,17 @@
 
 Introduction
 
-Dans son village, le joueur apprends que son père, le chevalier doré, a été vaincu par le grand chevalier-dragon, un tyran qui n'hésite pas à faire du mal pour dominer le monde.
-Pour se venger, il va devoir se former, battre des ennemis féroces, récupérer l'épée de son père pour enfin affronter le chevalier dragon.
+Dans son village, le joueur apprend que son père, le chevalier doré, a été vaincu par le grand chevalier-dragon, un tyran qui n'hésite pas à faire du mal pour dominer le monde.
+Pour se venger, il va devoir se former, battre des ennemis féroces et récupérer l'épée de son père pour enfin affronter le chevalier dragon.
 
-Nous allons réaliser un jeu d'aventure du genre plateformer où il y aura de l'aventure et du combat. Nous allons coder ce jeu en JavaFX et aussi avec du FXML en binôme.
+Nous allons réaliser un jeu d'aventure du genre plateformer où il y aura de l'aventure et du combat. Ce jeu sera codé en JavaFX et avec du FXML en binôme.
 
-Les objectifs de ce projet sont de nous initier au JavaFX afin de voir les bases et les fonctionnements.
+Les objectifs de ce projet sont de nous initier au JavaFX afin de voir les bases et les fonctionnements de ce Framework.
 
 Présentation du projet
 
-Ce jeu sera un plateformer d'aventures avec du combat. Au début on commencera dans une plaine. Il devra trouver des items pour franchir des obstacles, il pourra aussi trouver des armes pour se battre qui peuvent être des armes au corps à corps ou à distance. Il peut aussi affronter des boss des ennemis plus coriaces. 
-Le personnage peut se déplacer de droite à gauche et peut sauter, il faut donc gérer un système de gravité. il peut aussi monter à des échelles pour atteindre des plateformes en hauteur ou en descendre.
+Ce jeu sera un plateformer d'aventure avec du combat. Au début on commencera dans une plaine. Il devra trouver des items pour franchir des obstacles, il pourra aussi trouver des armes pour se battre, pouvant être au corps à corps ou à distance. Il pourra également affronter des boss ou des ennemis plus coriaces. 
+Le personnage peut se déplacer de droite à gauche et peut sauter, il faut gérer un système de gravité. il peut aussi monter à des échelles pour atteindre des plateformes en hauteur ou les descendre.
 Il possède une barre de vie qui diminue s’il tombe où s'il se fait toucher par un ennemi. 
 Il y aura des dialogues avec des personnages dans le jeu et peut être aussi un système de boutique. 
 Pour l'instant il n'y aura qu'une seule carte où lieu mais d'autres lieux peuvent être ajoutés plus tard.
